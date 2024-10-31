@@ -4,5 +4,5 @@ The file `animate.py` takes an image path to a PNG/JPG/JPEG image, then creates 
 
 ### Example
 
-!(example_bent.gif)
+![bent](example_bent.gif)
 
